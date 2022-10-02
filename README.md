@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobe974
+- 👋 Hi, I’m etienne baillif
 - 👀 I am interested in software development and more particularly web and mobile applications
 
 <!---
