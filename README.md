@@ -1,4 +1,4 @@
-- 👋 Hi, I’m etienne baillif
+- 👋 Hi
 - 👀 I am interested in software development and more particularly web and mobile applications
 
 <!---
