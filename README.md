@@ -1,5 +1,4 @@
-- 👋 Hi
-- 👀 I am interested in software development and more particularly web and mobile applications
+- 👋 Yo
 
 <!---
 bobe974/bobe974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
