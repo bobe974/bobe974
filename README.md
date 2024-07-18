@@ -1,6 +1,7 @@
-- 👋 ( ͡° ͜ʖ ͡°) 
+Hello! I’m Etienne
 
-<!---
-bobe974/bobe974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a passionate developer with a keen interest in full-stack application development. My primary focus is on building backend systems using Java and Spring Boot. I also enjoy creating dynamic and responsive frontend applications with Angular and React.
+
+Feel free to explore my portfolio to see some of the projects I’ve worked on: https://crispy-train-nine.vercel.app
+
+I’m always open to new opportunities and collaborations. Don’t hesitate to reach out!
